@@ -1,0 +1,24 @@
+.choiceBtn{
+    line-height: 30px;
+    width: 150px;
+    border: 5px solid;
+    border-radius: 30px;
+    border-color:rgb(7, 83, 248);
+}
+#gameDiv{
+    border: 10px solid;
+    border-color: lightcoral;
+    border-radius: 30px;
+    padding: 10px;
+    background-color: lightblue;
+    text-align: center;
+}
+.gameText{
+    font-family: Segoe Script;
+}
+#playerText{
+    color:blue;
+}
+#computerText{
+    color:red;
+}
